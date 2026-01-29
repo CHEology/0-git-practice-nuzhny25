@@ -10,3 +10,7 @@ Also an interesting problem that this text argues is that due to the rapid progr
 - Mid-Level Developer: Focus shifts from how to code to what code to write and what problems to solve.
 
 - Senior Developer: Defined not by raw coding skill, but by technical intuition and superior judgment. Focuses on delivering real value and being a team pillar.
+
+### Comment from Ryan Lu (CHEology)
+
+TThe article gives a structured and interesting overview of the tiers of developers, which might help people better position themselves. It also makes me wonder whether the definitions of these tiers could shift as the use of AI tools and 'vibe coding' becomes increasingly prevalent in the software development process. From my point of view, this might blur the distinction between junior and mid-level developers, given that AI can indeed help solve most of the basic questions junior developers might have, indicated by the decline of websites like stackoverflow.
